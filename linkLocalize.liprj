@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar-ye" xml:lang="ar-ye" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+    <ProjectFile Source="Target/localizeElements.flprj" Target="Target/localizeElements.flprj" />
+</LingoProject>
