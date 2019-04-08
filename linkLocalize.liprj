@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar-ye" xml:lang="ar-ye" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+<LingoProject TargetLanguage="ar-ye" xml:lang="ar-ye" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlDatabase="C:\Users\lbalababa\Documents\My Translated Projects\linkLocalize.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="44c35c5e-89aa-41c6-a1bc-ecf36b4dc8a4" SourceControlDatabaseRoot="C:\Users\lbalababa\Documents\My Translated Projects\linkLocalize.liprjf">
     <ProjectFile Source="Target/localizeElements.flprj" Target="Target/localizeElements.flprj" />
 </LingoProject>
